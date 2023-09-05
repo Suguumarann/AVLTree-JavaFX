@@ -1,2 +1,1 @@
-# AVL_Tree_JavaFX
- 
+# AVLTree-JavaFX
