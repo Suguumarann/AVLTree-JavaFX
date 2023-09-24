@@ -1,3 +1,4 @@
 # AVLTree-JavaFX
-![image](https://github.com/suguumarann/AVLTree-JavaFX/assets/118104398/31434323-2a3e-4016-94f4-59b945f3f9d4)
+![image](https://github.com/suguumarann/AVLTree-JavaFX/assets/118104398/a4e5356f-5711-4fba-826c-740fc4507b3c)
+
 
